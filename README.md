@@ -1,0 +1,1 @@
+# frontend-agame-token-orange-version
